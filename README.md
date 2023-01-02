@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @jnicnvr
-<!-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... --->
-<!---
-jnicnvr/jnicnvr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi 👋 My name is John Nico Novero
+=================================
+
+Web Developer
+-------------
+
+* 🌍  I'm based in Manila
+* 🖥️  See my portfolio at [jnicnvr-porfolio.vercel.app](http://jnicnvr-porfolio.vercel.app/)
+* ✉️  You can contact me at [noverojohnnico@gmail.com](mailto:noverojohnnico@gmail.com)
