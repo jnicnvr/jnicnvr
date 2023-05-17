@@ -1,7 +1,7 @@
 Hi 👋 My name is John Nico Novero
 =================================
 
-Web Developer
+Fullstack Web Developer
 -------------
 
 * 🌍  I'm based in Manila, PH
